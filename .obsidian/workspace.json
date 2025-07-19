@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "draft_v1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para draft_v1"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "draft_v1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para draft_v1"
             }
           },
           {
@@ -140,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "refs_raw.bib.md",
+                "file": "draft_v1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de refs_raw.bib"
+              "title": "Sumário de draft_v1"
             }
           }
         ]
@@ -168,9 +170,13 @@
   },
   "active": "7d50051545a20f40",
   "lastOpenFiles": [
-    "refs_raw.bib",
+    "literature/pdf/refs_raw.bib",
+    "literature/pdf",
+    "literature",
+    "README.md",
     "draft_v1.md",
     "refs_raw.bib.md",
+    "refs_raw.bib",
     "~$Natureza_Fractal_de_uma_Sociedade_Entropicamente_Dirigida.docx",
     "draft_v0.2.md",
     "A_Natureza_Fractal_de_uma_Sociedade_Entropicamente_Dirigida.docx"
