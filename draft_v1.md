@@ -1,7 +1,72 @@
 ---
 title: A Natureza Fractal de uma Sociedade Entropicamente Dirigida
 ---
+<!-- ✧✧✧  BLOCO NOVO – Início  ✧✧✧ -->
 
+# Introdução — Entre Fractais, Entropia e Superdotação
+> “O universo não é apenas mais estranho do que imaginamos.  
+> É mais estranho do que podemos imaginar.” — J. B. S. Haldane
+
+A cada instante, bilhões de corpos se deslocam, conectam, colidem e se
+reorganizam em padrões que, à primeira vista, parecem aleatórios.
+Contudo, atrás do caos das multidões e do tumulto das redes sociais
+pulsa uma estrutura silenciosa: **uma geometria fractal que se repete,
+se adapta e se reinventa em múltiplas escalas**.
+
+E se a sociedade não fosse mero agregado caótico de indivíduos, mas
+**expressão iterativa de um padrão universal**, guiado por um
+**vetor entrópico**? E se a própria consciência social, nossos
+comportamentos culturais e nossas tensões políticas fossem manifestações
+dessa lógica — uma lógica que, em raros pontos do tecido social, produz
+**singularidades de densidade cognitiva** conhecidas como
+*superdotação*?
+
+Esses pontos de alta complexidade cognitiva confirmam a hipótese
+central deste ensaio: **o fractal social expande‑se justamente onde a
+entropia estimula inovação**. Assim, as pessoas superdotadas funcionam
+como **sensores e catalisadores** de reorganização social – tema
+aprofundado na seção seguinte.
+
+A natureza da sociedade não é aleatória. **Ela é fractal.**  
+E seu vetor não é o acaso: **é a entropia.**
+
+## 1.2 Superdotação em Perspectiva Fractal‑Entrópica
+### 1.2.1 Histórico Conceitual
+- **Galton & Terman**: raízes psicométricas (QI > 130).  
+- **Modelos Multifatoriais** (Renzulli, Gardner): talento + criatividade.  
+- **Neurodiversidade contemporânea**: 2e (dupla excepcionalidade).  
+<!-- TODO: inserir refs 2023‑2025 -->
+
+### 1.2.2 Lacunas Teóricas Atuais
+- Falta de modelo dinâmico explicando *por que* altas habilidades surgem
+  em certos contextos e *como* impactam macro‑estruturas sociais.  
+- Carência de métricas sistêmicas além do QI.  
+<!-- TODO -->
+
+### 1.2.3 Superdotação como Singularidade Entropicamente Estimulada
+- Pressão entrópica → necessidade de dissipadores cognitivos →
+  emergência de cérebros de alta eficiência.  
+
+### 1.2.4 Disrupção e Tunelamento Simbólico
+- Superdotados = zonas de **tunelamento** através de barreiras culturais.  
+- Fatores que modulam “massa simbólica” \(m_s\).
+
+### 1.2.5 Implicações para Saúde Mental
+- Variação de \(\Gamma\) com suporte social; gradiente
+  \(|\nabla V(x)|\) como risco.  
+
+### 1.2.6 Hipóteses Testáveis
+| H | Predição | Métrica | Ref |
+|---|----------|---------|-----|
+| H₁ | Superdotação correlaciona c/ menor \(m_s\) | CANTAB | … |
+
+### 1.2.7 Relações Fractais Observáveis
+- Distribuição de superdotados segue lei de potência?  
+
+### 1.2.8 Conclusões Parciais
+*(escrever após resultados de simulação)*
+
+<!-- ✧✧✧  BLOCO NOVO – Fim  ✧✧✧ -->
 # 2.1 -- O Conceito Fundamental de Fractais
 
 Fractais são estruturas que desafiam a percepção clássica de forma e
