@@ -523,6 +523,81 @@ Dobrar-se em si mesmo.\
 Gerar sentido a partir da entropia.\
 E se observar, com humildade infinita, como um fractal que respira.
 
+<!-- ✧✧✧  NOVA SEÇÃO – Métodos Teóricos  ✧✧✧ -->
+
+## 4 Métodos Teóricos
+
+### 4.1 Domínio e Hipóteses Gerais
+Assumimos que **interações sociais relevantes** possam ser projetadas num
+**espaço simbólico** \( \mathcal{S} \subset \mathbb{R}^{d} \). Cada ponto
+\(x \in \mathcal{S}\) representa um vetor de estado cultural‑cognitivo;
+o tempo \(t\) é contínuo, mas discretizado (Δt) nas simulações.
+
+### 4.2 Função de Onda Sócio‑Simbólica
+\[
+\psi : \mathcal{S}\times\mathbb{R}^{+}\to\mathbb{C},\qquad
+\int_{\mathcal{S}}|\psi|^{2}\,\mathrm{d}V = 1 .
+\]
+\( |\psi|^{2}\) é a **densidade de atenção/intenção** sobre o espaço simbólico.
+
+### 4.3 Hamiltoniano Social
+\[
+\hat{H} = -\frac{\hbar^{2}}{2m_{s}}\nabla^{2} + V(x).
+\]
+
+| Termo | Significado social | Unidade SI | Observável sugerida |
+|-------|--------------------|------------|---------------------|
+| \(m_s\) | Massa simbólica (inerça cognitiva) | kg | Custo de *task set shifting* |
+| \(V(x)\) | Potencial cultural/normativo | J | Escalas de rigidez institucional |
+| \(\hbar\) | Const. de granularidade discursiva (≡ 1) | J·s | — |
+
+#### Parametrização de \(V(x)\)
+\[
+V(x)=\alpha_p\,\Pi(x)+\alpha_i\,I(x)-\alpha_s\,S(x),
+\]
+onde \(\Pi\)=perfeccionismo, \(I\)=isolamento, \(S\)=suporte de pares.
+
+### 4.4 Termo Dissipativo \(\Gamma\) (Lindblad)
+\[
+\Gamma = \gamma_0 + \gamma_1\left|\nabla V(x)\right|,
+\quad L = \sqrt{\Gamma}\, \hat{I}.
+\]
+Captura **fadiga psico‑somática** crescente com dissonância cultural.
+
+### 4.5 Condições de Contorno
+Dirichlet fora de \(\mathcal{S}\) e pacotes de Gauss para estados
+superdotados (\(m_s^\star < m_s^{\,média}\)).
+
+### 4.6 Esquema de Simulação (pré‑F‑3)
+Rede Watts‑Strogatz \(N=200, k=8, p=0.1\); propagador split‑operator
+(Δt = 0.01). Acoplamento \(J_{ij} = \beta / d_{ij}\).
+
+### 4.7 Quantidades de Interesse
+| Métrica | Fórmula | Significado |
+|---------|---------|-------------|
+| \(T_c\) | tempo até \(\sigma_x(t)<\sigma_0/2\) | Onset de rigidez/burnout |
+| \(D_f\) | Box‑counting na rede | Auto‑similaridade relacional |
+| \(\int \Gamma\,dt\) | dissipação cumulativa | Carga alostática |
+
+### 4.8 Limitações e Próximos Passos
+* Espaço simbólico low‑dimensional; ajuste futuro com embeddings grandes.  
+* \(\Gamma\) isotrópico; versões dependentes de conteúdo emocional por vir.
+
+---
+
+## Apêndice C Glossário Matemático
+
+| Símbolo | Nome | Definição | Unidade |
+|---------|------|-----------|---------|
+| \(\psi\) | Função de onda sócio‑simbólica | Amplitude complexa de potencialidade cultural | — |
+| \(m_s\) | Massa simbólica | Inércia a mudança cognitiva | kg |
+| \(V(x)\) | Potencial cultural | Campo normativo | J |
+| \(\Gamma\) | Taxa dissipativa | Proxy de fadiga psico‑somática | s\(^{-1}\) |
+| \(D_f\) | Dimensão fractal | Métrica de auto‑similaridade | — |
+
+<!-- ✧✧✧  NOVA SEÇÃO – Fim  ✧✧✧ -->
+
+
 # Epílogo -- A Equação que Respira
 
 A hipótese que agora propomos não é apenas simbólica: ela é um convite
