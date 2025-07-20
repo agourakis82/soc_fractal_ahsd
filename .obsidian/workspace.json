@@ -170,16 +170,21 @@
   },
   "active": "7d50051545a20f40",
   "lastOpenFiles": [
-    "OA_check.py",
-    "literature/pdf/refs_raw.bib",
-    "literature/pdf",
-    "literature",
+    "doi_report.csv",
+    "refs_raw.bak",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/licenses/COPYING",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/top_level.txt",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/WHEEL",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/licenses",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/REQUESTED",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/RECORD",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/METADATA",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info/INSTALLER",
+    "venv/lib/python3.13/site-packages/bibtexparser-1.4.3.dist-info",
+    "venv/lib/python3.13/site-packages/idna-3.10.dist-info/LICENSE.md",
     "README.md",
     "draft_v1.md",
     "refs_raw.bib.md",
-    "refs_raw.bib",
-    "~$Natureza_Fractal_de_uma_Sociedade_Entropicamente_Dirigida.docx",
-    "draft_v0.2.md",
-    "A_Natureza_Fractal_de_uma_Sociedade_Entropicamente_Dirigida.docx"
+    "draft_v0.2.md"
   ]
 }
